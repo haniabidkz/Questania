@@ -1,6 +1,6 @@
 -Questania- A Question Answer Website Much Like Quora.
 
--Backend Development in PHP, Front end Development in Bootstrap Framework
+-Backend Development in Core PHP, Front end Development in Bootstrap Framework
 
 -Create a Database named Questania and upload the SQL File. 
 
