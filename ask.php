@@ -1,6 +1,6 @@
 <?php 
 	session_start();
-	//This Page Will Only be displayed to logged in user.
+	//This Page Will Only be displayed to logged in user
 	if (!isset($_SESSION['email'])) {
 		header('location:browse.php');
 		die();
