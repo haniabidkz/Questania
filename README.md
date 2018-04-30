@@ -6,4 +6,6 @@
 
 -Change DB Username, Password by Navigating to includes/php/connection.php
 
+-Demo Email is: admin@example.com and Password is: questania123
+
 -Enjoy Coding
