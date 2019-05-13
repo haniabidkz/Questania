@@ -1,6 +1,6 @@
 <?php 
 	include("veiw/header.php"); 
-	$q_id=$_GET['qid'];
+	$q_id=$_GET['id'];
 	
 
 	//Query To Get The Answers Count, Question,Its Description and the Asking User. LEFT JOIN is used Because if there are 
